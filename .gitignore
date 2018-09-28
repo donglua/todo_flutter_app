@@ -14,3 +14,5 @@ doc/api/
 .DS_Store
 
 .flutter-plugins
+
+.idea
