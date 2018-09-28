@@ -16,3 +16,4 @@ doc/api/
 .flutter-plugins
 
 .idea
+*.iml
